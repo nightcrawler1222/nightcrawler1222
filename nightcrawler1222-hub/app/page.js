@@ -22,7 +22,7 @@ export default function Home() {
         color: '#aaa',
         marginBottom: '60px'
       }}>
-        Content Creator • Streamer • YouTuber
+        R6 Coach • Streamer • YouTuber
       </p>
 
       {/* Social Grid */}
@@ -86,7 +86,6 @@ export default function Home() {
         </a>
       </div>
       
-      {/* Pay to Chat */}
       {/* R6 Lessons */}
       <div style={{
         margin: '60px auto',
@@ -167,7 +166,7 @@ const cardStyle = {
   boxShadow: '0 5px 15px rgba(0, 0, 0, 0.3)'
 };
 
-// Style for the $1 button
+// Button base style
 const buttonStyle = {
   background: 'linear-gradient(90deg, #0066ff, #0099ff)',
   color: 'white',
